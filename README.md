@@ -63,7 +63,7 @@
 7. 取得 **Channel secret**
 ![](https://i.imgur.com/IwmvyzL.png)
 
-6. 使用編輯器開啟範例程式碼資料夾內的 app.py，將剛剛取得的 **channel secret** 和 **channel access token** 填入
+8. 依照https://hackmd.io/@QVUDISUBTxioB9qTQ_hDXA/LineBot ，將剛剛取得的 **channel secret** 和 **channel access token** 加入環境變數
   ![](https://i.imgur.com/Uz16joi.png)
 
 ## 將程式推到 Heroku 上
