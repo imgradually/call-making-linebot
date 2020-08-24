@@ -1,0 +1,4 @@
+line-bot-sdk
+flask
+psycopg2==2.8.5
+twilio
